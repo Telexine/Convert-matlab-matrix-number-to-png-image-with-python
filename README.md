@@ -1,5 +1,5 @@
 
-# Experiment Matlab image array to image
+# Experiment Convert Matlab image array to png
 
 dataset from http://make3d.cs.cornell.edu/ 
 
