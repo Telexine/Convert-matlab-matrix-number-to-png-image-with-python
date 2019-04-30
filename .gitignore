@@ -1,0 +1,5 @@
+dataset/image/*
+.ipynb_checkpoints
+.vscode
+dataset/depth/*.png
+dataset/depthMat/*.mat
