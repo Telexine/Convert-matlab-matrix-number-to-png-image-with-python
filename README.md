@@ -1,5 +1,5 @@
 
-# Experiment Convert Matlab image array to png
+# (Experiment) Convert matlab's matrix number into png image with python
 
 dataset from http://make3d.cs.cornell.edu/ 
 
